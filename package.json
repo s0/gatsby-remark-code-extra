@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-remark-code-extra",
+  "version": "0.0.1",
+  "description": "Add to or transform the HTML output of markdown code blocks",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "syntax-highlighting",
+    "markdown",
+    "remark"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/samlanning/gatsby-remark-code-extra",
+  "author": "Sam Lanning <sam@samlanning.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "dependencies": {
+    "remark-code-extra": "^1.0.0"
+  }
+}
